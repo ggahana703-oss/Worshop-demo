@@ -1,0 +1,34 @@
+[      -4ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.saucedemo.com/cart.html:0
+[    1052ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.saucedemo.com/:0
+[    2222ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[    2830ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[   13747ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[   14662ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[   35350ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[   36810ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1802244ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1802844ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1813751ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1814014ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1834975ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 1835911ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 4432233ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 4432239ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 4442264ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 4442265ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 4462297ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 4462298ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 5400916ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 5400917ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 5410963ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 5410964ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 5430997ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[ 5430999ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142147518ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142147622ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142147647ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142147661ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142158608ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142158618ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142158619ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN:0
+[142158651ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN:0
